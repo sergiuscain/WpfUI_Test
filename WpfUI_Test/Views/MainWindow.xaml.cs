@@ -1,5 +1,6 @@
 ﻿using System.Text;
 using System.Windows;
+using WpfUI_Test.ViewModels;
 
 namespace WpfUI_Test
 {
